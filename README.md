@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### This is Shanmukh Chowdary Morampudi
-### [Link to Google](https://www.google.com)
+### [My Portfolio](https://www.google.com)
 
 <!--
 **shanmukhchowdary147/shanmukhchowdary147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
