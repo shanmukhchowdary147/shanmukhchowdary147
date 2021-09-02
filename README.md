@@ -1,7 +1,7 @@
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## :rainbow: Hello viewer :<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<h1 align="center">Hi 👋, I'm SHanmukh Chowdary Morampudi</h1>
-## Check out my portfolio website👉 [click here](https://shanmukhchowdary147.github.io/)👨‍💻
+<h1 align="center">Hi 👋, I'm Shanmukh Chowdary Morampudi</h1>
+### Check out my portfolio website👉 [click here](https://shanmukhchowdary147.github.io/)👨‍💻
 <!--
 **shanmukhchowdary147/shanmukhchowdary147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
