@@ -1,5 +1,4 @@
-## 🌀 Hello viewer <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## 🌀 Hello viewer <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="20px"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h1 align="center">I'm Shanmukh Chowdary Morampudi</h1>
 
 ### Check out my portfolio website👉 [click here](https://shanmukhchowdary147.github.io/)👨‍💻
