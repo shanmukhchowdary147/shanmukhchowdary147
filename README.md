@@ -1,15 +1,14 @@
 ## 🌀 Hello viewer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h1 align="center">I'm Shanmukh Chowdary Morampudi</h1>
-<a href="https://www.linkedin.com/in/shanmukhchowdary147/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:shanmukhchowdary147@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/___shannu.___/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/>
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/shanmukhchowdary147/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:shanmukhchowdary147@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://shanmukhchowdary147.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-0038FE?style=for-the-badge&logo=globe&logoColor=white" alt="website"/></a>&nbsp;
+<a href="https://www.instagram.com/___shannu.___/"" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>&nbsp;
+<a href="https://shanmukhchowdary147.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-F0F0F0?style=for-the-badge&logo=medium&logoColor=black" alt="medium"/></a>&nbsp;
+<br>
 
 ### Check out my portfolio website👉 [click here](https://shanmukhchowdary147.github.io/)👨‍💻
 
