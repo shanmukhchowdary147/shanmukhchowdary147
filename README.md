@@ -1,6 +1,8 @@
 ## 🌀 Hello viewer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h1 align="center">I'm Shanmukh Chowdary Morampudi</h1>
-
+<!-- <p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/shanmukhchowdary147" />
+</p> -->
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/shanmukhchowdary147/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
