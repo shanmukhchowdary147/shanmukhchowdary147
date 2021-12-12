@@ -9,7 +9,7 @@
 <a href="mailto:shanmukhchowdary147@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://shanmukhchowdary147.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0038FE?style=for-the-badge&logo=globe&logoColor=white" alt="website"/></a>&nbsp;
 <a href="https://www.instagram.com/___shannu.___/"" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>&nbsp;
-<a href="https://shanmukhchowdary147.medium.com/" target="_blank"><img src="https://img.shields.io/badge/credly-F0F0F0?style=for-the-badge&logo=medium&logoColor=black" alt="medium"/></a>&nbsp;
+<a href="https://www.credly.com/users/morampudi-shanmukh-chowdary.26cd940f" target="_blank"><img src="https://img.shields.io/badge/credly-F0F0F0?style=for-the-badge&logo=credly&logoColor=black" alt="credly"/></a>&nbsp;
 <br>
 
 ### Check out my portfolio website👉 [click here](https://shanmukhchowdary147.github.io/)👨‍💻
