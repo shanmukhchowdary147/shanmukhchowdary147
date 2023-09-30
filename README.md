@@ -1,4 +1,4 @@
-## 🌀 Hello viewer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## 🌀 Hello Viewer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h1 align="center">I'm Shanmukh Chowdary Morampudi</h1>
 <!-- <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/shanmukhchowdary147" />
