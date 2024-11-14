@@ -31,7 +31,6 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></code>
 <br/> <br/>
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
                                                                                                                                                
 <!--
 **shanmukhchowdary147/shanmukhchowdary147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
